@@ -11,7 +11,7 @@ categories:
 ---
 # DevSecOps-Arsenal
 Curated list of DevSecOps tools
-![alt text](https://github.com/L3m0nb4tt3ry/DevSecOps-Arsenal/blob/master/DSO_Tools.png)
+![alt text](DevSecOps-Arsenal/DSO_Tools.png)
 
 ## DevSecOps ? why ?
 
