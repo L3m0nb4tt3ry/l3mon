@@ -1,19 +1,19 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
-baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+title: L3m0nB4tt3ry - Security
+description: "A blog about L3m0nB4tt3ry ..."
+baseurl: "/l3mon" # for test: remove string '/space-jekyll-template' to ''
+url: "https://l3m0nb4tt3ry.github.io/l3mon/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+username: L3m0nB4tt3ry
+user_title: L3m0nB4tt3ry - Security
+email: engg.onkar@gmail.com
+twitter_username: L3m0nB4tt3ry
+github_username:  L3m0nB4tt3ry
+gplus_username:  L3m0nB4tt3ry
+linkedin_public_url: L3m0nB4tt3ry # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: L3m0nB4tt3ry
+profile_picture: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/d9ac49ac-026f-47b4-af10-e89b07c6c1a1/d8azqy3-9f2e4854-ff14-4db6-b8bc-d455fcc95f4b.jpg
 
 # Build settings
 markdown: kramdown
@@ -59,10 +59,10 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
+  - name: DevSecOps-on-K8S
+    url: https://github.com/L3m0nb4tt3ry/DevSecOps-on-k8s
+  - name: HashiVault-Ansible-CloudFormation
+    url: https://github.com/L3m0nb4tt3ry/Cloudformation-Ansible-Hashi_Vault
   - name: generator-capybara
     url: https://github.com/victorvoid/generator-capybara 
 
